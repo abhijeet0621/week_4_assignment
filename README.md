@@ -1,5 +1,5 @@
 Iris Classification ML Project with DVC Tracking and Continuous Integration (CI) with GitHub Actions
-MLOps - Week 2 - Assignment - 21f1000344
+
 
 Assignment Objective :
 Setup IRIS Classification Training pipeline into a GitHub repository with two branches dev and main
